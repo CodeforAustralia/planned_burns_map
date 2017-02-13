@@ -1,4 +1,4 @@
-# planned-burns web map prototype
+# Planned Burns web map prototype
 
 Currently, DELWP is having issues engaging with the community when talking about their Planned Burns project. General public living in remote areas where high risk of bush fire exists, are having a hard time to understand how the planned burns made by the department are helping. In addition, there are about 3 different maps around DELWP's website to get people inform about current, future and past burns making it difficult for general public to access them and get inform.
 
